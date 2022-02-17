@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_settings"
+        android:title="@string/menu_settings"
+        app:showAsAction="never">
+
+        <!-- The submenu starts here -->
+        <menu>
+            <item android:id="@+id/submenu_item1"
+                android:title="@string/submenu_item1" />
+            <item android:id="@+id/submenu_item2"
+                android:title="@string/submenu_item2" />
+        </menu>
+    </item>
+</menu>

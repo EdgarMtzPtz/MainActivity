@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MainActivity</string>
+    <string name="menu_settings">suculento</string>
+
+    <string name="submenu_item1">midget porn</string>
+    <string name="submenu_item2">viejas encueradas</string>
+
+    //I added this from coderguidebook idk if it goes on top or bottom it made it red
+    //change it then it went green keep it on the top
+
 </resources>
+
+
